@@ -11,7 +11,10 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.Logger.LogInformation("Development mode enabled");
     app.MapOpenApi();
+} else {
+    app.Logger.LogInformation("Production mode enabled");
 }
 
 app.UseHttpsRedirection();
