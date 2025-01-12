@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/doug/git/dougtest/dougtest/dougtest.csproj",
+      "projectUniqueName": "/Users/doug/git/dougtest/dougtest.csproj",
       "projectName": "dougtest",
-      "projectPath": "/Users/doug/git/dougtest/dougtest/dougtest.csproj",
+      "projectPath": "/Users/doug/git/dougtest/dougtest.csproj",
       "packagesPath": "/Users/doug/.nuget/packages/",
-      "outputPath": "/Users/doug/git/dougtest/dougtest/obj/",
+      "outputPath": "/Users/doug/git/dougtest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/doug/.nuget/NuGet/NuGet.Config"
